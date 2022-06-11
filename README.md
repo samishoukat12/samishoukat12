@@ -14,7 +14,7 @@
 <a href="[http://www.github.com/hicodersofficial](https://github.com/samishoukat12?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=samishoukat12&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samishoukat12&hide=PureBasic&langs_count=8)](https://github.com/samishoukat12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samishoukat12&hide=PureBasic&langs_count=12)](https://github.com/samishoukat12)
 
 
 
