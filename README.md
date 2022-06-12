@@ -36,7 +36,7 @@ Software Engineer
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")][repo]
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")][repo]
 [![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")][repo]
-[![GraphQl](https://img.shields.io/badge/GraphQl-black?style=for-the-badge&logo=GraphQl&badgeColor=**010101** "GraphQl")][repo]
+[![Graphql](https://img.shields.io/badge/Graphql-black?style=for-the-badge&logo=Graphql&badgeColor=**010101** "Graphql")][repo]
 [![ApolloClient](https://img.shields.io/badge/ApolloClient-black?style=for-the-badge&logo=ApolloClient&badgeColor=**010101** "ApolloClient")][repo]
 
 
