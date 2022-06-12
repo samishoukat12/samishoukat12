@@ -65,7 +65,7 @@ Software Engineer
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
-[![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=TypeScript&logoColor=black "TypeScript")][repo]
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=black "TypeScript")][repo]
 [![C](https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=C&logoColor=black "C")][repo]
 [![C++](https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=C++&logoColor=black "C++")][repo]
 [![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black "Python")][repo]
