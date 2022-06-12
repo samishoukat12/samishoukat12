@@ -21,7 +21,7 @@ Software Engineer
 
 ![https://github.com/samishoukat12?tab=repositories](https://github-profile-trophy.vercel.app/?username=samishoukat12&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=samishoukat12)](https://github.com/samishoukat12/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=samishoukat12&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)](https://github.com/samishoukat12/github-profile-trophy)
 
 <a href="[http://www.github.com/hicodersofficial](https://github.com/samishoukat12?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=samishoukat12&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
