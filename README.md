@@ -36,7 +36,7 @@ Software Engineer
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")][repo]
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")][repo]
 [![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")][repo]
-[![Graphql](https://img.shields.io/badge/Graphql-black?style=for-the-badge&logo=Graphql&badgeColor=**010101** "Graphql")][repo]
+[![Graphql](https://img.shields.io/badge/Graphql-CC6699?style=for-the-badge&logo=Graphql&badgeColor=**010101** "Graphql")][repo]
 [![ApolloClient](https://img.shields.io/badge/ApolloClient-black?style=for-the-badge&logo=ApolloClient&badgeColor=**010101** "ApolloClient")][repo]
 
 
@@ -65,10 +65,10 @@ Software Engineer
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=black "TypeScript")][repo]
-[![C](https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=C&logoColor=black "C")][repo]
-[![C++](https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=C++&logoColor=black "C++")][repo]
-[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black "Python")][repo]
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white "TypeScript")][repo]
+[![C](https://img.shields.io/badge/C-CC6699?style=for-the-badge&logo=C&logoColor=white "C")][repo]
+[![C++](https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=C++&logoColor=white "C++")][repo]
+[![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Python&logoColor=white "Python")][repo]
 
 
 <!-- [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")][repo] -->
