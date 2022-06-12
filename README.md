@@ -12,6 +12,10 @@ Software Engineer
 
 
 
+<img
+  src="https://github.com/samishoukat12/samishoukat12/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
 
 ## 🏆 **GITHUB TROPHY**
 
