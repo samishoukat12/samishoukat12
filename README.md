@@ -19,7 +19,7 @@ Software Engineer
 
 ## 🏆 **GITHUB TROPHY**
 
-<!-- ![https://github.com/samishoukat12?tab=repositories](https://github-profile-trophy.vercel.app/?username=samishoukat12&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB) -->
+![https://github.com/samishoukat12?tab=repositories](https://github-profile-trophy.vercel.app/?username=samishoukat12&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=samishoukat12)](https://github.com/samishoukat12/github-profile-trophy)
 
