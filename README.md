@@ -61,13 +61,13 @@ Software Engineer
 ## 📅 **DATABASES**
 
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
-[![Sqlite](https://img.shields.io/badge/Sqlite-4EA94B?style=for-the-badge&logo=Sqlite&logoColor=white "Sqlite")][repo]
+[![Sqlite](https://img.shields.io/badge/Sqlite-007ACC?style=for-the-badge&logo=Sqlite&logoColor=white "Sqlite")][repo]
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white "TypeScript")][repo]
 [![C](https://img.shields.io/badge/C-CC6699?style=for-the-badge&logo=C&logoColor=white "C")][repo]
-[![C++](https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=C++&logoColor=white "C++")][repo]
+[![C++](https://img.shields.io/badge/CPP-007ACC?style=for-the-badge&logo=C++&logoColor=white "C++")][repo]
 [![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Python&logoColor=white "Python")][repo]
 
 
