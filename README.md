@@ -61,6 +61,7 @@ Software Engineer
 ## 📅 **DATABASES**
 
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
+[![Sqlite](https://img.shields.io/badge/Sqlite-4EA94B?style=for-the-badge&logo=Sqlite&logoColor=white "Sqlite")][repo]
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
