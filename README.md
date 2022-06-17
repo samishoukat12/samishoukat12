@@ -17,6 +17,7 @@ Software Engineer
 
 ![https://github.com/samishoukat12?tab=repositories](https://github-profile-trophy.vercel.app/?username=samishoukat12&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 
+## Top Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samishoukat12&hide=PureBasic&langs_count=12)](https://github.com/samishoukat12)
 
@@ -106,3 +107,12 @@ Software Engineer
 
 
 [repo]: https://github.com/samishoukat12?tab=repositories
+
+	## Achievements:
+
+<div align="center">  
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=devumairazmat&margin-w=15&margin-h=15" />
+
+</div>
+
+<br />
