@@ -97,7 +97,7 @@
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)][repo]
-[![Xcode](https://img.shields.io/badge/Xcode-3DDC84.svg?style=for-the-badge&logo=Xcode&logoColor=white)][repo]
+[![Xcode](https://img.shields.io/badge/Xcode-23039BE5.svg?style=for-the-badge&logo=Xcode&logoColor=white)][repo]
 
 
 
