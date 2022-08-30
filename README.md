@@ -35,7 +35,6 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")][repo]
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")][repo]
 [![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")][repo]
-[![Graphql](https://img.shields.io/badge/Graphql-CC6699?style=for-the-badge&logo=Graphql&badgeColor=**010101** "Graphql")][repo]
 [![ApolloClient](https://img.shields.io/badge/ApolloClient-black?style=for-the-badge&logo=ApolloClient&badgeColor=**010101** "ApolloClient")][repo]
 
 
@@ -54,6 +53,7 @@
 ## ⚙️ **BACKEND DEV**
 
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
+[![Graphql](https://img.shields.io/badge/Graphql-CC6699?style=for-the-badge&logo=Graphql&badgeColor=**010101** "Graphql")][repo]
 [![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express js")][repo]
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][repo]
 
