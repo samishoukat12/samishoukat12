@@ -110,7 +110,7 @@
 ## Achievements:
 
 <div align="center">  
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=devumairazmat&margin-w=15&margin-h=15" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=samishoukat12&margin-w=15&margin-h=15" />
 
 </div>
 
