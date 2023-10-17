@@ -7,7 +7,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samishoukat12&layout=pie&langs_count=12)](https://github.com/samishoukat12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samishoukat12&layout=pie&langs_count=9)](https://github.com/samishoukat12/github-readme-stats)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samishoukat12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
